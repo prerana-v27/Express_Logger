@@ -45,8 +45,8 @@ express\_logger/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/prerana-v27/express-logger.git
-cd express-logger
+[git clone https://github.com/prerana-v27/express-logger.git](https://github.com/prerana-v27/Express_Logger.git)
+
 ````
 
 ---
