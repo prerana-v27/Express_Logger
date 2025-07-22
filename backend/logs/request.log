@@ -1,0 +1,160 @@
+{"method":"GET","url":"/","timestamp":"2025-07-22T04:44:45.625Z"}
+{"method":"GET","url":"/favicon.ico","timestamp":"2025-07-22T04:44:45.750Z"}
+{"method":"GET","url":"/%0A","timestamp":"2025-07-22T04:51:20.992Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T04:53:54.241Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T04:54:35.022Z"}
+{"method":"PUT","url":"/books/1","timestamp":"2025-07-22T04:54:50.882Z"}
+{"method":"DELETE","url":"/books/1","timestamp":"2025-07-22T04:55:13.215Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T05:11:02.023Z"}
+{"method":"GET","url":"/favicon.ico","timestamp":"2025-07-22T05:11:02.192Z"}
+{"method":"DELETE","url":"/books/1","timestamp":"2025-07-22T05:11:21.929Z"}
+{"method":"DELETE","url":"/books/1","timestamp":"2025-07-22T05:11:30.096Z"}
+{"method":"POST","url":"/books/","timestamp":"2025-07-22T05:11:39.190Z"}
+{"method":"PUT","url":"/books/1","timestamp":"2025-07-22T05:11:48.183Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T05:11:58.188Z"}
+{"method":"GET","url":"/main.4f755a634c01d6a0a91e.hot-update.json","timestamp":"2025-07-22T05:17:34.076Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T05:17:42.996Z"}
+{"method":"DELETE","url":"/books/1","timestamp":"2025-07-22T05:22:10.752Z"}
+{"method":"PUT","url":"/books/1","timestamp":"2025-07-22T05:22:16.814Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T05:22:21.925Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T05:25:14.772Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T05:26:30.525Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T05:29:36.012Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T05:30:03.994Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T05:36:51.380Z"}
+{"method":"PUT","url":"/books/1","timestamp":"2025-07-22T05:36:54.033Z"}
+{"method":"DELETE","url":"/books/1","timestamp":"2025-07-22T05:36:56.567Z"}
+{"method":"GET","url":"/main.dec2ae4f78237a2e15aa.hot-update.json","timestamp":"2025-07-22T05:47:49.172Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T05:49:41.695Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T05:52:44.781Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T05:53:53.002Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T05:55:34.167Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T06:01:05.269Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T06:05:22.612Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T06:06:16.441Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T06:10:22.097Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T06:10:25.219Z"}
+{"method":"OPTIONS","url":"/books","timestamp":"2025-07-22T06:10:40.858Z"}
+{"method":"OPTIONS","url":"/books","timestamp":"2025-07-22T06:14:13.969Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T06:14:59.959Z"}
+{"method":"PUT","url":"/books/1","timestamp":"2025-07-22T06:15:02.838Z"}
+{"method":"DELETE","url":"/books/1","timestamp":"2025-07-22T06:15:05.338Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T06:23:42.711Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T06:24:34.156Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T06:24:55.308Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T06:26:13.722Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T06:26:28.954Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T06:28:58.654Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T06:32:59.122Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T06:34:51.376Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T06:38:21.037Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T06:42:44.958Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T06:42:48.001Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T06:43:09.497Z"}
+{"method":"PUT","url":"/books/1","timestamp":"2025-07-22T06:43:13.056Z"}
+{"method":"PUT","url":"/books/1","timestamp":"2025-07-22T06:43:41.652Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T06:45:01.766Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T06:45:04.686Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T06:57:06.017Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T06:57:12.337Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T07:07:36.879Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T07:07:48.490Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T07:07:51.944Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T07:07:58.082Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T07:25:08.467Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T07:25:11.531Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T07:25:15.759Z"}
+{"method":"GET","url":"/books","timestamp":"2025-07-22T07:25:36.352Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T07:25:57.372Z"}
+{"method":"GET","url":"/books/1","timestamp":"2025-07-22T07:26:28.794Z"}
+{"method":"GET","url":"/books/1","timestamp":"2025-07-22T07:26:32.064Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T07:26:54.961Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T07:27:02.899Z"}
+{"method":"GET","url":"/books","timestamp":"2025-07-22T07:27:08.608Z"}
+{"method":"GET","url":"/books","timestamp":"2025-07-22T07:27:11.446Z"}
+{"method":"GET","url":"/books","timestamp":"2025-07-22T07:27:19.265Z"}
+{"method":"GET","url":"/books","timestamp":"2025-07-22T07:27:25.034Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T07:27:45.431Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T07:29:11.868Z"}
+{"method":"GET","url":"/books","timestamp":"2025-07-22T07:29:17.658Z"}
+{"method":"GET","url":"/books","timestamp":"2025-07-22T07:29:17.964Z"}
+{"method":"GET","url":"/books","timestamp":"2025-07-22T07:29:25.915Z"}
+{"method":"GET","url":"/books","timestamp":"2025-07-22T07:30:04.438Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T07:30:08.531Z"}
+{"method":"GET","url":"/books","timestamp":"2025-07-22T07:30:11.335Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T07:30:21.202Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T07:30:48.780Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T08:20:37.036Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T08:21:16.255Z"}
+{"method":"PUT","url":"/books/1","timestamp":"2025-07-22T08:21:19.460Z"}
+{"method":"DELETE","url":"/books/1","timestamp":"2025-07-22T08:21:21.624Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T08:21:23.973Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T08:22:53.898Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T08:25:53.021Z"}
+{"method":"PUT","url":"/books/1","timestamp":"2025-07-22T08:26:25.984Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T08:33:14.479Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T08:34:36.824Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T08:36:47.725Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T08:36:49.725Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T08:36:52.463Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T08:37:21.556Z"}
+{"method":"GET","url":"/favicon.ico","timestamp":"2025-07-22T08:37:21.582Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T08:37:23.964Z"}
+{"method":"GET","url":"/favicon.ico","timestamp":"2025-07-22T08:37:23.990Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T08:43:33.037Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T08:45:02.239Z"}
+{"method":"DELETE","url":"/books/1","timestamp":"2025-07-22T08:45:04.851Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T08:45:07.423Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T08:45:10.469Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T08:48:32.666Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T08:48:39.253Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T08:49:01.053Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T08:50:17.830Z"}
+{"method":"PUT","url":"/books/1","timestamp":"2025-07-22T08:50:22.658Z"}
+{"method":"DELETE","url":"/books/1","timestamp":"2025-07-22T08:50:25.999Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T10:01:50.398Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T10:02:11.307Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T10:02:23.889Z"}
+{"method":"PUT","url":"/books/1","timestamp":"2025-07-22T10:02:35.362Z"}
+{"method":"DELETE","url":"/books/1","timestamp":"2025-07-22T10:02:41.522Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T10:03:14.774Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T10:04:12.653Z"}
+{"method":"PUT","url":"/books/1","timestamp":"2025-07-22T10:04:15.408Z"}
+{"method":"DELETE","url":"/books/1","timestamp":"2025-07-22T10:04:17.800Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T10:04:20.308Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T10:19:58.930Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T10:30:43.928Z"}
+{"method":"DELETE","url":"/books/1","timestamp":"2025-07-22T10:30:47.898Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T10:35:47.953Z"}
+{"method":"GET","url":"/","timestamp":"2025-07-22T10:45:14.894Z"}
+[2025-07-22T10:51:59.422Z] GET /
+[2025-07-22T10:52:19.304Z] GET /
+[2025-07-22T10:53:37.301Z] GET /books/9
+[2025-07-22T10:53:44.038Z] GET /books/2
+[2025-07-22T10:53:49.163Z] GET /book
+[2025-07-22T10:53:55.691Z] POST /book
+[2025-07-22T11:03:02.234Z] GET /
+[2025-07-22T11:03:05.483Z] POST /books
+[2025-07-22T11:04:02.829Z] GET /
+[2025-07-22T11:04:05.610Z] GET /
+[2025-07-22T11:04:09.408Z] POST /books
+[2025-07-22T11:04:19.051Z] POST /book
+[2025-07-22T11:04:24.597Z] POST /books
+[2025-07-22T11:43:49.139Z] POST /books
+[2025-07-22T11:43:59.105Z] DELETE /books/1
+[2025-07-22T11:44:09.489Z] POST /books
+[2025-07-22T11:45:00.586Z] DELETE /books/1
+[2025-07-22T11:48:51.221Z] POST /books
+[2025-07-22T11:50:02.393Z] POST /books
+[2025-07-22T11:50:08.894Z] DELETE /books/1
+[2025-07-22T11:55:07.790Z] POST /books
+[2025-07-22T11:55:44.888Z] GET /
+[2025-07-22T11:57:22.783Z] PUT /books/1
+[2025-07-22T11:57:30.008Z] PUT /books/1
+[2025-07-22T12:00:04.441Z] GET /
+[2025-07-22T12:00:09.549Z] GET /
+[2025-07-22T12:04:35.050Z] PUT /books/1
+[2025-07-22T12:04:45.754Z] GET /
+{"method":"GET","url":"/","timestamp":"2025-07-22T12:05:29.845Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T12:05:35.275Z"}
+{"method":"POST","url":"/books","timestamp":"2025-07-22T12:05:42.490Z"}

@@ -1,0 +1,4 @@
+[2025-07-22T11:38:21.966Z] Failed to write to ./logs/request.log: EPERM: operation not permitted, open 'D:\WebDev\express_logger\backend\logs\request.log'
+[2025-07-22T11:38:25.303Z] Failed to write to ./logs/request.log: EPERM: operation not permitted, open 'D:\WebDev\express_logger\backend\logs\request.log'
+[2025-07-22T11:38:48.751Z] Failed to write to ./logs/request.log: EPERM: operation not permitted, open 'D:\WebDev\express_logger\backend\logs\request.log'
+[2025-07-22T11:38:52.764Z] Failed to write to ./logs/request.log: EPERM: operation not permitted, open 'D:\WebDev\express_logger\backend\logs\request.log'
