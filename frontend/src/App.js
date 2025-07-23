@@ -3,7 +3,7 @@ import axios from 'axios';
 import './App.css';
 
 // Base URL of the backend
-const BASE_URL = 'http://localhost:5000';
+const BASE_URL = 'https://express-logger.onrender.com';
 
 function App() {
   // Generic request function
